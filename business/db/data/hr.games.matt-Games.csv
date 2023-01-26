@@ -1,0 +1,4 @@
+Id;name;accessable;price;supplier;releaseDate
+1;Teddy;true;10;SupplierGmbH;2021-06-27
+2;Gameboy;false;25;SupplierGmbH;2021-06-27
+3;Schach;true;15.6;SupplierGmbH;2021-06-27
